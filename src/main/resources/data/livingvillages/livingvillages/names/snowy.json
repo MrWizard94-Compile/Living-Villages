@@ -1,0 +1,16 @@
+{
+  "culture": "snowy",
+  "male": [
+    "Alexei", "Boris", "Dmitri", "Fyodor", "Ivan",
+    "Mikhail", "Nikolai", "Pavel", "Sergei", "Viktor",
+    "Yuri", "Andrei", "Grigori", "Lev", "Oleg"
+  ],
+  "female": [
+    "Anya", "Daria", "Irina", "Katya", "Lena",
+    "Mila", "Natasha", "Olga", "Sonya", "Tatiana",
+    "Vera", "Yelena", "Zoya", "Lydia", "Nina"
+  ],
+  "neutral": [
+    "Sasha", "Misha", "Vanya", "Zhenya", "Slava"
+  ]
+}

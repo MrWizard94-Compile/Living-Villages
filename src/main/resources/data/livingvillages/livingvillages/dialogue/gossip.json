@@ -1,0 +1,15 @@
+{
+  "category": "gossip",
+  "templates": [
+    "{speaker} told {listener}: 'That traveler helped us during the last raid.'",
+    "{speaker} mentioned to {listener}: 'The outsider has been around a lot lately.'",
+    "{speaker} whispered to {listener}: 'I saw the stranger taking crops last night...'",
+    "{speaker} said to {listener}: 'That visitor always trades fairly with me.'",
+    "{speaker} muttered to {listener}: 'I don't trust that one. Something about them...'",
+    "{speaker} told {listener}: 'Did you see? They brought us supplies!'",
+    "{speaker} grumbled to {listener}: 'That outsider hit poor {subject}!'",
+    "{speaker} said warmly to {listener}: 'The traveler cured {subject} from that awful curse.'",
+    "{speaker} confided in {listener}: 'I feel safer when the outsider is around.'",
+    "{speaker} remarked to {listener}: 'Haven't seen that traveler in a while...'"
+  ]
+}

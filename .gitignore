@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# NeoForge run directories
+run/
+runs/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local credentials and assistant-local state.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.claude/settings.local.json
+
+# Java
+*.class
+*.jar
+*.war
+
+# Kotlin
+*.kotlin_module

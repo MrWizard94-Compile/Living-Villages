@@ -1,0 +1,28 @@
+{
+  "biome": "plains",
+  "declining": {
+    "path_block": "minecraft:coarse_dirt",
+    "decoration": "minecraft:dead_bush",
+    "lighting": "minecraft:air"
+  },
+  "struggling": {
+    "path_block": "minecraft:dirt_path",
+    "decoration": "minecraft:air",
+    "lighting": "minecraft:torch"
+  },
+  "stable": {
+    "path_block": "minecraft:dirt_path",
+    "decoration": "minecraft:oak_fence",
+    "lighting": "minecraft:torch"
+  },
+  "thriving": {
+    "path_block": "minecraft:gravel",
+    "decoration": "minecraft:flower_pot",
+    "lighting": "minecraft:lantern"
+  },
+  "flourishing": {
+    "path_block": "minecraft:stone_bricks",
+    "decoration": "minecraft:white_banner",
+    "lighting": "minecraft:lantern"
+  }
+}

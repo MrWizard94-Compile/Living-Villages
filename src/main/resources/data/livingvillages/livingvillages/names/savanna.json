@@ -1,0 +1,16 @@
+{
+  "culture": "savanna",
+  "male": [
+    "Amadi", "Chidi", "Emeka", "Jabari", "Kofi",
+    "Kwame", "Mandla", "Oba", "Sekou", "Thabo",
+    "Zuberi", "Dakarai", "Gahiji", "Jelani", "Tau"
+  ],
+  "female": [
+    "Amara", "Asha", "Dalili", "Imani", "Kaya",
+    "Nia", "Sanaa", "Tala", "Zuri", "Ayana",
+    "Makena", "Sifa", "Winta", "Eshe", "Lila"
+  ],
+  "neutral": [
+    "Aki", "Ayo", "Dumi", "Kali", "Zola"
+  ]
+}

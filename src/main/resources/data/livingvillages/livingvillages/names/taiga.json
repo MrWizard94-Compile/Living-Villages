@@ -1,0 +1,16 @@
+{
+  "culture": "taiga",
+  "male": [
+    "Erik", "Bjorn", "Leif", "Gunnar", "Harald",
+    "Sigurd", "Ragnar", "Ulf", "Torsten", "Sven",
+    "Olaf", "Knut", "Ingvar", "Freyr", "Arne"
+  ],
+  "female": [
+    "Astrid", "Freya", "Ingrid", "Sigrid", "Helga",
+    "Runa", "Solveig", "Thyra", "Eira", "Brynhild",
+    "Gudrun", "Hilda", "Liv", "Ylva", "Anja"
+  ],
+  "neutral": [
+    "Kai", "Storm", "Frost", "Birk", "Skog"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "culture": "desert",
+  "male": [
+    "Amir", "Farid", "Hassan", "Idris", "Jamal",
+    "Khalil", "Malik", "Nasir", "Omar", "Rashid",
+    "Samir", "Tariq", "Yusuf", "Zaid", "Basim"
+  ],
+  "female": [
+    "Amira", "Dalila", "Fatima", "Hana", "Jasmine",
+    "Layla", "Mariam", "Nadia", "Safiya", "Yasmin",
+    "Zahra", "Soraya", "Leila", "Dina", "Rania"
+  ],
+  "neutral": [
+    "Noor", "Shams", "Hayat", "Salam", "Ihsan"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "culture": "plains",
+  "male": [
+    "Thomas", "William", "Henry", "Edward", "Robert",
+    "James", "George", "Arthur", "Walter", "Hugh",
+    "John", "Richard", "Philip", "Simon", "Peter"
+  ],
+  "female": [
+    "Alice", "Eleanor", "Margaret", "Rose", "Beatrice",
+    "Catherine", "Isabel", "Agnes", "Matilda", "Joan",
+    "Emma", "Mary", "Clara", "Edith", "Lucy"
+  ],
+  "neutral": [
+    "Robin", "Avery", "Morgan", "Sage", "Rowan",
+    "Wren", "Finch", "Lark", "Glen", "Dale"
+  ]
+}
