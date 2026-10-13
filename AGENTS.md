@@ -30,7 +30,9 @@ For a governance-only edit, validate the pinned Constitution source and tests,
 run its `tools/check-adoption.py` against this Git root, and run
 `gradlew.bat build --warning-mode all` on Windows. Reproduce gameplay changes
 in a fresh NeoForge launch and relevant world lifecycle before claiming runtime
-acceptance. Record the exact instance and logs used for that claim.
+acceptance. Record the exact instance and logs used for that claim. The tracked
+Gradle wrapper JAR must match Gradle's published 8.12 checksum; the wrapper
+also pins the 8.12 binary distribution checksum.
 
 The retired `.claude/SOUL.md` pointer and 188-line Claude-era variant are
 recoverable from Git commit `278168a64079b958d87867a3c3bc9db9af07d95f`.
